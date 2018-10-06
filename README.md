@@ -5,6 +5,8 @@ Prog.kiev.ua. Java OOP. Группа 85
 
 [Java OOP. Богдан. Группа 85. Лекции 1-2 (29.09.2018)](https://prog.kiev.ua/forum/index.php/topic,3894.0.html)
 
+[Java OOP. Богдан. Группа 85. Лекции 3-4 (06.10.2018)](https://prog.kiev.ua/forum/index.php/topic,3907.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
@@ -16,6 +18,8 @@ Prog.kiev.ua. Java OOP. Группа 85
 [Задание на курсовой проект](https://docs.google.com/document/d/1BD_RtdtKI4MZylI_UGOGdE8_d2CZTZnfVCWwirvSVbU/edit)
 
 [Примеры тем курсового проекта](https://docs.google.com/document/d/1pYon-L6ZfPaYPiPBSg0tPbs6HT5B-LKSLjybU08STX8/edit?usp=sharing)
+
+[Распределение тем на курсовой проект](https://docs.google.com/spreadsheets/d/1i6Hf4bsnQIeGoFeAc0l9zjKTDzyD4UPDkF55rbXvcm8/edit?usp=sharing)
 
 ## Примеры решения задач
 
