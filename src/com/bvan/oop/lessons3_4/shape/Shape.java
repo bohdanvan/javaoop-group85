@@ -5,6 +5,8 @@ package com.bvan.oop.lessons3_4.shape;
  */
 public interface Shape {
 
-    public double getArea();
-    public double getPerimeter();
+    double PI = 3.14; // default - public static final
+
+    double getArea(); // default - public
+    double getPerimeter();
 }
